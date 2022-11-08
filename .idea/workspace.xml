@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bea652-c01a-450c-ab54-bea2e03eb9f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Exercise15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +345,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/TestingArray.java</url>
           <line>1</line>
-          <properties class="TestingArray" method="main">
+          <properties class="TestingArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -354,7 +354,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Chapter14/StringIndexMethod.java</url>
           <line>3</line>
-          <properties class="Chapter14.StringIndexMethod" method="main">
+          <properties class="Chapter14.StringIndexMethod">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -363,7 +363,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Chapter15/FileAndDirectoryInfo.java</url>
           <line>10</line>
-          <properties class="Chapter15.FileAndDirectoryInfo" method="main">
+          <properties class="Chapter15.FileAndDirectoryInfo">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -381,7 +381,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example2.java</url>
           <line>5</line>
-          <properties class="ChapterSeventeen.StreamSamples.Example2" method="main">
+          <properties class="ChapterSeventeen.StreamSamples.Example2">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
