@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bea652-c01a-450c-ab54-bea2e03eb9f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/ArraysExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/ArraysStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/ArraysandStream2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/IntSortOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/IntStreamOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/RandomIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/StreamFilterToReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChapterSeventeen/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChapterSeventeen/FunctionInerfaceImp/ConsumerSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +270,7 @@
       <workItem from="1667779811149" duration="3967000" />
       <workItem from="1667812491010" duration="2614000" />
       <workItem from="1667819424706" duration="9842000" />
-      <workItem from="1667854483659" duration="616000" />
+      <workItem from="1667854483659" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1657208503875</created>
