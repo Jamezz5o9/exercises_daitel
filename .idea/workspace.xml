@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bea652-c01a-450c-ab54-bea2e03eb9f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Exercise15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/ArraysAndStream3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +98,9 @@
       <recent name="Chapter10.Payable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example13">
-    <configuration name="ArraysStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.ArraysStreams" />
+  <component name="RunManager" selected="Application.Example16">
+    <configuration name="ArraysAndStream3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.ArraysAndStream3" />
       <module name="javaExercise" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.Example7" />
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.Example14" />
       <module name="javaExercise" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.Example9" />
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter17.Example16" />
       <module name="javaExercise" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example16" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.ArraysAndStream3" />
         <item itemvalue="Application.Example13" />
         <item itemvalue="Application.Example11" />
-        <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.ArraysStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +276,7 @@
       <workItem from="1667812491010" duration="2614000" />
       <workItem from="1667819424706" duration="9842000" />
       <workItem from="1667854483659" duration="1535000" />
+      <workItem from="1667893537260" duration="14586000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1657208503875</created>
