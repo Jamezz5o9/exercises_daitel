@@ -1,4 +1,4 @@
-package ChapterSeventeen;
+package ChapterSeventeen.FunctionInerfaceImp;
 
 import java.util.ArrayList;
 import java.util.Arrays;
