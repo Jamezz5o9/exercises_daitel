@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bea652-c01a-450c-ab54-bea2e03eb9f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/ArraysAndStream3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter17/Example16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/SortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamResult.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,22 +95,9 @@
       <recent name="Chapter10.Payable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example16">
+  <component name="RunManager" selected="Application.SortArray">
     <configuration name="ArraysAndStream3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter17.ArraysAndStream3" />
-      <module name="javaExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter17.Example11" />
       <module name="javaExercise" />
       <extension name="coverage">
         <pattern>
@@ -164,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tddClass.SortArray" />
+      <module name="javaExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.Example16" />
         <item itemvalue="Application.Example14" />
         <item itemvalue="Application.ArraysAndStream3" />
         <item itemvalue="Application.Example13" />
-        <item itemvalue="Application.Example11" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +273,10 @@
       <workItem from="1667812491010" duration="2614000" />
       <workItem from="1667819424706" duration="9842000" />
       <workItem from="1667854483659" duration="1535000" />
-      <workItem from="1667893537260" duration="14586000" />
+      <workItem from="1667893537260" duration="17027000" />
+      <workItem from="1667985501305" duration="2498000" />
+      <workItem from="1668020642828" duration="1456000" />
+      <workItem from="1668039468155" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1657208503875</created>
@@ -351,7 +351,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/TestingArray.java</url>
           <line>1</line>
-          <properties class="TestingArray">
+          <properties class="TestingArray" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -360,7 +360,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Chapter14/StringIndexMethod.java</url>
           <line>3</line>
-          <properties class="Chapter14.StringIndexMethod">
+          <properties class="Chapter14.StringIndexMethod" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -369,7 +369,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Chapter15/FileAndDirectoryInfo.java</url>
           <line>10</line>
-          <properties class="Chapter15.FileAndDirectoryInfo">
+          <properties class="Chapter15.FileAndDirectoryInfo" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -387,7 +387,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ChapterSeventeen/StreamSamples/Example2.java</url>
           <line>5</line>
-          <properties class="ChapterSeventeen.StreamSamples.Example2">
+          <properties class="ChapterSeventeen.StreamSamples.Example2" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

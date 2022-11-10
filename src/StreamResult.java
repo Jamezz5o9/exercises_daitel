@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
@@ -9,20 +8,17 @@ public class StreamResult {
         checkStreamStyle(word);
 
     }
-    private static int calculalateInt(List<String> elements) {
-        char[] found = new char[elements.size()];
+    private static void calculalateInt(List<String> elements) {
         int count = 0;
-        for(int i = 0; i < elements.size(); i++){
-            String num = elements.get(i);
-            for(int j = 0; j < num.length(); j++){
+        for (String num : elements) {
+            for (int j = 0; j < num.length(); j++) {
                 char elem = num.charAt(j);
-                if(Character.isDigit(elem)){
+                if (Character.isDigit(elem)) {
                     count += 1;
                 }
             }
-
+            System.out.println(count);
         }
-        return count;
     }
 
     public static void checkStreamStyle(List<String> elements){
