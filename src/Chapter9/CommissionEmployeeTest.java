@@ -15,6 +15,9 @@ public class CommissionEmployeeTest {
         employee.setCommissionRate(.2);
 
         System.out.printf("%n%s:%n%n%s%n", "Updated information of employee obtained by toString", employee);
+        basePlusCommissionEmployee basePlusCommissionEmployee = new basePlusCommissionEmployee("Sue", "Jones", "222-22-2222", 10000, .06, 4.44);
+        CommissionEmployee commissionEmployee = basePlusCommissionEmployee;
+        System.out.println(commissionEmployee);
 
     }
 }

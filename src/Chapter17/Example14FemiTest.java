@@ -1,12 +1,11 @@
 package Chapter17;
 
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Example14 {
+public class Example14FemiTest {
     public static void main(String[] args) {
         List<Integer> list = List.of(12, 13, 45, 15, 16, 7);
        var result =  list.stream()

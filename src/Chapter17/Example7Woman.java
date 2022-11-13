@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-public class Example7 {
+public class Example7Woman {
     public static void main(String[] args) {
         List<Integer> list = List.of(1, 22, 3, 4, 3, 4, 4, 5, 6, 7);
         list.stream().sorted().distinct().forEach(System.out::println);

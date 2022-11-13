@@ -8,7 +8,7 @@ public class BasePlusCommissionEmployee {
     private double grossSales;
     private double baseSalary;
 
-    public BasePlusCommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales, double commissionRate, double baseSalary){
+    public BasePlusCommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales, double commissionRate, double baseSalary, int i){
         if(grossSales < 0){
             throw new IllegalArgumentException("Gross sales must be >= 0.0");
         }

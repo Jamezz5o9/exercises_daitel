@@ -21,4 +21,14 @@ public class basePlusCommissionEmployee extends CommissionEmployee {
     public double getBaseSalary(){
         return baseSalary;
     }
+
+    public double schoolSalary(){
+        return  599 * getBaseSalary();
+    }
+
+    @Override
+    public String toString(){
+       return String.format("%s%n%s%nThe school salary is: %s", super.toString(), getBaseSalary(), schoolSalary());
+    }
+
 }
